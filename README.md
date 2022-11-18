@@ -5,3 +5,4 @@ adde
 commit
 commit new file
 test file 
+newfile
