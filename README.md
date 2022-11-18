@@ -6,3 +6,4 @@ commit
 commit new file
 test file 
 newfile
+done good work
